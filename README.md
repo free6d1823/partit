@@ -10,4 +10,5 @@
  $ ./partit input -n 1 [-o out]
 
 * To recover files
+
  $ cat file1 file2 file3 ... > file
